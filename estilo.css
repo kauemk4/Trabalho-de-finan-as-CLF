@@ -40,3 +40,18 @@ hr {
     opacity: 1.0;
     color: #38bdf8;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;500;600&display=swap');
+
+.texto-tech {
+    color: #00f2ff;
+    /* Ciano elétrico para chamar atenção */
+    text-shadow: 0 0 5px rgba(0, 242, 255, 0.3);
+    font-weight: 600;
+    font-size: 70px;
+}
+
+.text {
+    font-size: 18px;
+
+}
